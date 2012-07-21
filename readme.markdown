@@ -4,7 +4,6 @@ Pointer Performance Test
 Some quick and dirty C# code to evaluate the performance difference between
 normal array access in managed code and unsafe pointer access.
 
-
 Results
 -------
 
@@ -29,3 +28,13 @@ Results
     random array access using parallel.for(), with 4 processors
      00:00:10.6896303 for normal
      00:00:10.1858376 for unsafe
+
+License
+-------
+
+MIT permissive license. See mit-license.txt for full license details.     
+     
+Source Code Repository
+----------------------
+ 
+https://github.com/thomasbratt/PointerPerformanceTest
