@@ -32,7 +32,7 @@ Results
 License
 -------
 
-MIT permissive license. See mit-license.txt for full license details.     
+MIT permissive license. See MIT-LICENSE.txt for full license details.     
      
 Source Code Repository
 ----------------------
