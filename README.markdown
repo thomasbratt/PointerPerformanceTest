@@ -38,3 +38,7 @@ Source Code Repository
 ----------------------
  
 https://github.com/thomasbratt/PointerPerformanceTest
+<<<<<<< HEAD:README.markdown
+
+=======
+>>>>>>> ef1fdcd86dd01ed58656656a604916e91feae221:readme.markdown
