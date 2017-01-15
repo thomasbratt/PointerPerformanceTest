@@ -38,7 +38,3 @@ Source Code Repository
 ----------------------
  
 https://github.com/thomasbratt/PointerPerformanceTest
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/thomasbratt/pointerperformancetest/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
